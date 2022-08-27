@@ -1,2 +1,2 @@
 # binary_trees
-Binary Tress - DSA
+Binary Trees - DSA
